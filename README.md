@@ -63,7 +63,7 @@ The analytics are developed in **Tableau**, while a **Flask web application** pr
 # 📂 Project Structure
 
 ```text
-UNESCO-Global-Heritage-Insights
+APSCHE_Project
 │
 ├── static
 │   ├── css
@@ -140,7 +140,7 @@ End User
 _Add your Home Page screenshot here._
 
 ```
-static/images/home.png
+static/Demo images/Home.png
 ```
 
 ---
@@ -160,7 +160,7 @@ static/images/unesco_dashboard.png
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/UNESCO-Global-Heritage-Insights.git
+git clone https://github.com/SaiPavan4321/APSCHE_DataAnalytics.git
 ```
 
 Navigate into the project
