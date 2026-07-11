@@ -135,23 +135,20 @@ End User
 
 # 📸 Screenshots
 
+
 ## 🏠 Home Page
 
-_Add your Home Page screenshot here._
+![Home](Demo images/Home.png)
 
-```
-static/Demo images/Home.png
-```
+
 
 ---
 
 ## 📊 Dashboard
 
-_Add your Dashboard screenshot here._
+## 📊 Dashboard
 
-```
-static/images/unesco_dashboard.png
-```
+![Dashboard](static/images/unesco_dashboard.png)
 
 ---
 
@@ -247,11 +244,3 @@ Data Analytics Intern
 ---
 
 # ⭐ If you found this project useful, consider giving it a Star!
-
-## 🏠 Home Page
-
-![Home](static/images/home.png)
-
-## 📊 Dashboard
-
-![Dashboard](static/images/unesco_dashboard.png)
