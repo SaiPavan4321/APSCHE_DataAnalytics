@@ -138,13 +138,13 @@ End User
 
 ## 🏠 Home Page
 
-![Home](Demo images/Home.png)
+
+![Home](static/images/Home.png)
 
 
 
 ---
 
-## 📊 Dashboard
 
 ## 📊 Dashboard
 
